@@ -1,1 +1,3 @@
 # pdf2pic2word
+可以实现pdf到pic到word的转换
+使用百度的AI开放平台的OCR识别接口来将图片pdf转换为文字
